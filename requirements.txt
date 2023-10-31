@@ -1,0 +1,4 @@
+telethon
+load_dotenv
+django
+gunicorn

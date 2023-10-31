@@ -1,0 +1,6 @@
+How long a user has been a member.
+How long since they were active last
+How many messages they have sent
+How many links clicked.
+Time since last message
+Time since last reaction
